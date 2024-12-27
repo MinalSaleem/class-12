@@ -9,6 +9,7 @@ export default async function Home() {
 
   return (
     <div className="bg-[url('/image.jpg')] bg-cover bg-center bg-no-repeat min-h-screen opacity-">
+      
       <SessionWrapper>
 
         {isAuthentication
